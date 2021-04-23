@@ -1,7 +1,7 @@
-- 👋  Hi, I’m @devtool-0x01
-- 👀  I’m interested in web and software development
-- 🌱  I’m currently learning aspnet-core, nestjs and graphql
-- 💞️  I’m looking to collaborate on ... still working on it ;)
+- 👋  Hi, I’m Gagan (@devtool-0x01)
+- 👀  I’m interested in web and software development.
+- 🌱  I’m currently learning aspnet-core, nestjs and graphql along with React, Angular and Vue.
+- 💞️  I’m looking to collaborate on ... anything I can help with ;)
 - 📫  How to reach me ... in progress
 
 <!---
